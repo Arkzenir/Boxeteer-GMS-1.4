@@ -2,4 +2,4 @@
  
 Hyper-Casual mobile game created using GMS 1.4
 
-Unity remake is underway.
+Godot remake is underway.
